@@ -82,7 +82,7 @@ global.SEX_DL = 'false' // 18 + video dl
 
 global.AUTO_STICKER = false
 
-global.AUTO_REPLY = false
+global.AUTO_REPLY = true
 
 global.VOICE_REPLY = false
 
