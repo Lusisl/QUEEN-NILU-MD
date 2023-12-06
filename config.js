@@ -51,7 +51,7 @@ global.STICKER_NAME = '@Shen 🤹‍♂️' //sticker
 
 global.LANG = 'SI' // Language (EN-  TO english  ,  SI- TO sinhala )
 
-global.PREFIX = '#' // Bot Prefix
+global.PREFIX = '.' // Bot Prefix
 
 global.CAPTION = 'ǫᴜᴇᴇɴ ɴɪʟᴜ  © 2023' // Caption
 
